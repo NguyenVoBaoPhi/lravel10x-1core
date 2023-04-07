@@ -1,0 +1,1 @@
+# lravel10x-1core
